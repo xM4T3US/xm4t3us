@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [MALUS Framework](https://github.com/xM4T3US/MALUS)
 
-- 👯 I’m looking to collaborate on [GHS NET](https://github.com/xM4T3US/GHS_Net)
+- 👯 I’m collaborate on [GHS NET](https://github.com/xM4T3US/GHS_Net)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
