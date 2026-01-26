@@ -7,17 +7,17 @@
 
 ---
 
-# 🇺🇸 About Me
+## 🇺🇸 About Me
 
 - 🔧 Tech professional focused on **Cloud Infrastructure, DevOps and Security**
 - 🔐 Experience with **VPN systems, encrypted environments and secure deployments**
 - ☁️ Strong background in **AWS, Azure and Google Cloud**
-- 🐧 Linux enthusiast and automation-driven mindset
-- 📦 Containerization & orchestration with **Docker & Kubernetes**
+- 🐧 Linux enthusiast with an automation-first mindset
+- 📦 Containerization and orchestration with **Docker & Kubernetes**
 
 ---
 
-# 🇧🇷 Sobre Mim
+## 🇧🇷 Sobre Mim
 
 - 🔧 Profissional de tecnologia focado em **Cloud, DevOps e Segurança**
 - 🔐 Experiência com **sistemas VPN, ambientes criptografados e deploy seguro**
@@ -29,8 +29,8 @@
 
 ## 🏢 Current Work | Trabalho Atual
 
-- 🔻 Working at **[MJ Tech](https://mjtech.net.br)**  
-- 🔻 Collaborating on **[GHS NET](https://github.com/xM4T3US/GHS_Net)**  
+- 🔻 Working at **[MJ Tech](https://mjtech.net.br)**
+- 🔻 Collaborating on **[GHS NET](https://github.com/xM4T3US/GHS_Net)**
 
 ---
 
@@ -55,15 +55,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xm4t3us&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=xm4t3us&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xm4t3us&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xm4t3us&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xm4t3us" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xm4t3us&theme=github-dark&hide_border=true" />
 </p>
 
 ---
