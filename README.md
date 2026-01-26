@@ -52,16 +52,6 @@
 
 ---
 
-## 🏆 GitHub Achievements
-
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=xm4t3us&theme=onedark&margin-w=15" />
-  </a>
-</p>
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -80,7 +70,8 @@
 
 ## 📫 Contact & Collaboration | Contato & Parcerias
 
-- 💼 Open to collaborations, infrastructure projects and automation solutions  
-- 💼 Aberto a parcerias, projetos de infraestrutura e automação  
-- 🔐 Security-focused environments and cloud optimization  
-- 🔐 Ambientes focados em segurança e otimização em nuvem
+- 💼 Open to collaborations, infrastructure projects, and automation solutions  
+- 💼 Aberto a parcerias, projetos de infraestrutura e soluções de automação  
+
+- 🔐 Experience with security-focused environments and cloud optimization  
+- 🔐 Experiência com ambientes focados em segurança e otimização em nuvem
