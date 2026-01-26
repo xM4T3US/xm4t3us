@@ -55,15 +55,33 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xm4t3us&show_icons=true&theme=tokyonight&hide_border=true" />
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=xm4t3us&show_icons=true&theme=tokyonight&hide_border=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=xm4t3us&show_icons=true&hide_border=true" />
+</picture>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xm4t3us&layout=compact&theme=tokyonight&hide_border=true" />
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=xm4t3us&layout=compact&theme=tokyonight&hide_border=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xm4t3us&layout=compact&hide_border=true" />
+</picture>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xm4t3us&theme=tokyonight&hide_border=true" />
+<picture>
+  <source
+    srcset="https://github-readme-streak-stats.herokuapp.com/?user=xm4t3us&theme=tokyonight&hide_border=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xm4t3us&hide_border=true" />
+</picture>
 </p>
 
 ---
@@ -75,6 +93,7 @@
 
 - 🔐 Experience with security-focused environments and cloud optimization  
 - 🔐 Experiência com ambientes focados em segurança e otimização em nuvem
+
 
 
 
