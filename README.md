@@ -55,15 +55,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xm4t3us&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=xm4t3us&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xm4t3us&layout=compact&theme=github_dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xm4t3us&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xm4t3us&theme=github-dark&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xm4t3us&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -75,3 +75,4 @@
 
 - 🔐 Experience with security-focused environments and cloud optimization  
 - 🔐 Experiência com ambientes focados em segurança e otimização em nuvem
+
