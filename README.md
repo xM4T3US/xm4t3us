@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Mateus</h1>
-<h3 align="center">Cloud • Infrastructure • Security • Automation</h3>
+<h3 align="center">Cloud • Infrastructure • CyberSecurity • Automation</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=xm4t3us&label=Profile%20views&color=0e75b6&style=flat" alt="xm4t3us" />
@@ -29,7 +29,7 @@
 
 ## 🏢 Current Work | Trabalho Atual
 
-- 🔻 Working at **[MJ Tech](https://mjtech.net.br)**
+- 🔻 Current project **[MJ Tech](https://mjtech.net.br)**
 - 🔻 Collaborating on **[GHS NET](https://github.com/xM4T3US/GHS_Net)**
 
 ---
@@ -75,6 +75,7 @@
 
 - 🔐 Experience with security-focused environments and cloud optimization  
 - 🔐 Experiência com ambientes focados em segurança e otimização em nuvem
+
 
 
 
