@@ -54,21 +54,9 @@
   <a href="https://github.com" target="_blank" title="GitHub"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/></a>
 </p>
 
-> 🔧 Também trabalho com administração de servidores **VPS** (Azure, AWS, Google Cloud, Linode, Locaweb), redes **VPN** e **iptables**. Atualmente estudando **Docker** e arquitetura de microsserviços.
+> 🔧 Também trabalho com administração de servidores **VPS** (Azure, AWS, Google Cloud, Linode, Locaweb), redes **VPN**. Atualmente estudando **Docker** e arquitetura de microsserviços.
 >
-> 🔧 I also work with **VPS** server administration (Azure, AWS, Google Cloud, Linode, Locaweb), **VPN** networks and **iptables**. Currently learning **Docker** and microservices architecture.
-
----
-
-## 📊 Estatísticas | GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xm4t3us&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xm4t3us&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+> 🔧 I also work with **VPS** server administration (Azure, AWS, Google Cloud, Linode, Locaweb), **VPN** networks. Currently learning **Docker** and microservices architecture.
 
 ---
 
