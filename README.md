@@ -11,7 +11,7 @@
 ## 🇧🇷 Sobre Mim
 
 - 🎓 **Tecnólogo em Análise e Desenvolvimento de Sistemas** (Centro Universitário ETEP)
-- 💻 Desenvolvo sistemas web e back-end que resolvem **problemas reais** — alguns em uso diário na indústria onde trabalho
+- 💻 Desenvolvo sistemas web e back-end que resolvem **problemas reais** 
 - 🐧 Entusiasta de **Linux** e administração de servidores **VPS**, com mentalidade voltada à automação
 - 🔐 Base sólida em **segurança da informação**, redes VPN (OpenVPN, Dropbear) e firewall (iptables)
 - 🚀 Em transição de carreira para a área de tecnologia, sempre aprendendo algo novo
